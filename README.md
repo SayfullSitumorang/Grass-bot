@@ -1,4 +1,4 @@
-# grass-bot Grass Bot Auto Mining (MULTI ACCOUNT)
+## grass-bot Grass Bot Auto Mining (MULTI ACCOUNT)
 
 ## Create an Account If You Don't Have an Account
 
@@ -19,6 +19,7 @@ sudo apt install python3 python3-pip
 git clone https://github.com/jamikoas/grass-bot.git
 cd grass-bot
 ```
+## Install Requirement
 
 ```
 pip install -r requirements.txt
@@ -36,8 +37,5 @@ Ganti Dengan User ID Akun Grass Kalian dan Save CTRL X Y Enter
 
 ```
 python3 main.py
-```
-```
-halo
 ```
 Wait 5 - 10 minutes for the Porxy search''
