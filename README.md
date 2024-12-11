@@ -1,10 +1,10 @@
-# grass-bot Grass Bot Auto Mining (MULTI AKUN)
+# grass-bot Grass Bot Auto Mining (MULTI ACCOUNT)
 
-## Create Account Jika Belum Punya
+## Create an Account If You Don't Have an Account
 
-- Create Account : https://s.id/grassairdrop
-- Masukin Email and Password
-- Verifikasi Email dan Submit SOL Address
+- Create Account : https://app.getgrass.io
+- Enter Email and Password
+- Verifikasi Email and Submit SOL Address
 - Done
 
 ## Install Python and Depensi
@@ -37,5 +37,7 @@ Ganti Dengan User ID Akun Grass Kalian dan Save CTRL X Y Enter
 ```
 python3 main.py
 ```
-
-Tunggu 5 - 10 Menit Untuk Pencarian Porxy nya
+```
+halo
+```
+Wait 5 - 10 minutes for the Porxy search''
